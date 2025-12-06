@@ -20,19 +20,19 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/705138e4-74c4-406a-b4d9-682c7c85f9ac" alt="c-sharp" width="40" height="40"/> 
   </a>  
-  <a href="" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/19555266-b336-4703-b8fc-16692f397c77" alt="typecript" width="40" height="40"/> 
   </a>
   <a href="" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/f4575ee3-fbb0-41ba-afea-53c726741737" alt=".Net" width="40" height="40"/> 
   </a>
-  <a href="" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/36e55086-00a0-469a-863c-e4b64d58e9e5" alt="Angular" width="40" height="40"/> 
   </a> 
-  <a href="" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/0a8496e8-8b00-4c02-9d70-a336aba351f0" alt="sql" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
