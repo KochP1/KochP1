@@ -12,7 +12,7 @@
 - :student: I have a degree in computer science..
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunities`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
