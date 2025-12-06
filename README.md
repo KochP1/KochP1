@@ -7,39 +7,42 @@
 
 <br><br>
 
-- :school: I am a `Junior` web developer currently working at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` web developer currently working at business group RG.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I have a degree in computer science..
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C#]()
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-### Backend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+- :thinking: I’m currently open for a new `job opportunities`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/705138e4-74c4-406a-b4d9-682c7c85f9ac" alt="c-sharp" width="40" height="40"/> 
+  </a>  
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/19555266-b336-4703-b8fc-16692f397c77" alt="typecript" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/f4575ee3-fbb0-41ba-afea-53c726741737" alt=".Net" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/36e55086-00a0-469a-863c-e4b64d58e9e5" alt="Angular" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/0a8496e8-8b00-4c02-9d70-a336aba351f0" alt="sql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
 <br>
 
